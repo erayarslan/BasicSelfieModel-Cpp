@@ -72,4 +72,6 @@ int main () {
   ayca.takePhoto(true);
 
   std::cout << ayca.profile() << std::endl;
+  
+  return 0;
 }
